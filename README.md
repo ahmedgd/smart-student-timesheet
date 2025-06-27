@@ -12,6 +12,7 @@ React + TypeScript + Vite
 Bootstrap design
 Clean, simple UI
 Structure 
+
 src/
   components/TimeSheetTable.tsx
   pages/StudentTimeSheetPage.tsx
