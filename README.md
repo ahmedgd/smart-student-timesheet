@@ -12,7 +12,6 @@ React + TypeScript + Vite
 Bootstrap design
 Clean, simple UI
 Structure 
-
 src/
   components/TimeSheetTable.tsx
   pages/StudentTimeSheetPage.tsx
@@ -20,7 +19,6 @@ src/
   facades/StudentFacade.ts
   types/Class.ts
   types/Student.ts
-
 Notes
 This project is a test task.
 Can be connected to a real API instead of mock.
