@@ -6,9 +6,9 @@ A simple React + TypeScript app to display a student’s timesheet.
 
 ---
 
-## 🚀 How to run
+How to run
 
-1. **Install dependencies**
+1. Install dependencies**
 
 ```bash
 npm install
