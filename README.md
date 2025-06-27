@@ -7,13 +7,10 @@ npm install
 npm run dev
 ///Build for production
 npm run build
-
-
 Features
 React + TypeScript + Vite
 Bootstrap design
 Clean, simple UI
-
 Structure 
 src/
   components/TimeSheetTable.tsx
